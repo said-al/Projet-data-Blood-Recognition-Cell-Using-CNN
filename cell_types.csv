@@ -1,0 +1,14 @@
+cell_subtype_key,cell_subtype,cell_type,cell_type_code,cell_type_label,cell_type1,cell_type2
+BA,Basophil,basophil,BA,0,basophils,basophils
+EO,Eosinophils,eosinophil,EO,1,eosinophils,eosinophils
+ERB,Erythroblast,erythroblast,ER,2,erythroblasts,erythroblasts
+IG,immature granulocytes,ig,IG,3,"immature granulocytes (metamyelocytes, myelocytes and promyelocytes)",immature granulocytes
+MMY,Metamyelocyte,ig,IG,3,"immature granulocytes (metamyelocytes, myelocytes and promyelocytes)",immature granulocytes
+MY,Myelocyte,ig,IG,3,"immature granulocytes (metamyelocytes, myelocytes and promyelocytes)",immature granulocytes
+PMY,Promyelocyte,ig,IG,3,"immature granulocytes (metamyelocytes, myelocytes and promyelocytes)",immature granulocytes
+LY,Lymphocyte,lymphocyte,LY,4,lymphocytes,lymphocytes
+MO,Monocyte,monocyte,MO,5,monocytes,monocytes
+BNE,Band neutrophils,neutrophil,NE,6,neutrophils,neutrophils
+NEUTROPHIL,Neutrophil,neutrophil,NE,6,neutrophils,neutrophils
+SNE,Segmented neutrophils,neutrophil,NE,6,neutrophils,neutrophils
+PLATELET,platelets (thrombocytes),platelet,PL,7,platelets (thrombocytes),thrombocytes
