@@ -6,8 +6,6 @@ import cv2 # OpenCV to read images
 from sklearn.cluster import MeanShift, estimate_bandwidth
 
 
-# CAROLINE -- FILTERING FUNCTIONS
-
 def OTSU_threshold(img,composant='S',blur=False):
     """
     img : image in BGR
@@ -44,8 +42,6 @@ def OTSU_threshold(img,composant='S',blur=False):
         
     return th
 
-
-# EMILIEN -- FILTERING FUNCTIONS
 
 def filter_color_threshold(img):
     """
@@ -144,8 +140,6 @@ def filter_Kmeans2(img,n_clusters=3):
     
     return segmented_image
 
-
-# SAID -- FILTERING FUNCTIONS
 
 def RemoveBackground(img):
     """
@@ -246,7 +240,6 @@ def EqualizerImg(img) :
                                               searchWindowSize=21)
     return dst_img
 
-# PAUL -- FILTERING FUNCTIONS
 
 def filter_Kmeans1(img,n_clusters=6,bckgrd=False):
     """
