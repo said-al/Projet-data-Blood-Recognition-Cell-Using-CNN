@@ -1,6 +1,2 @@
 computer_id,name,path_dataset,path_analysis,path_data_prep,path_models
-0x9eb8b9ec40f5,Emilien,/Users/emilienbonhomme/Desktop/DataScientest - Projet Blood Cell/PBC_dataset_normal_DIB/,,/Users/emilienbonhomme/Desktop/DataScientest - Projet Blood Cell/,
-caroline,Caroline,/home/caroline/caroline/FORMATION/Datascientest/Projet_Blood_Cell/datasets/PBC_dataset_normal_DIB/,/home/caroline/caroline/FORMATION/Datascientest/Projet_Blood_Cell/analyses/,/home/caroline/caroline/FORMATION/Datascientest/Projet_Blood_Cell/data_prep/,
 86BC4E7F-2039-11E4-BC0D-BC4BBD0000FF,Said,C:/Users/HP/Desktop/20211121_Projets Data Sciences/20211121-Projet_Deep Learning_Blood_Cell/2.Prepared Data/PBC_dataset_normal_DIB/,C:/Users/HP/Desktop/Projets Data Sciences/20211121-Projet_Deep Learning_Blood_Cell/5.Insights/,,
-0xa2cd01bd725f,Paul,C:/Users/luap_/OneDrive/Data_Science/Projects/bloody_spy_blast/dataset/PBC_dataset_normal_DIB/,,C:/Users/luap_/OneDrive/Data_Science/Projects/bloody_spy_blast/data_prep/,
-4C4C4544-0048-5010-804B-C3C04F344A33,Paul,C:/Users/luap_/OneDrive/Data_Science/Projects/bloody_spy_blast/dataset/PBC_dataset_normal_DIB/,C:/Users/luap_/OneDrive/Data_Science/Projects/bloody_spy_blast/analysis/,C:/Users/luap_/OneDrive/Data_Science/Projects/bloody_spy_blast/data_prep/,C:/Users/luap_/OneDrive/Data_Science/Projects/bloody_spy_blast/models/
